@@ -94,7 +94,7 @@
 
 
 
-file:///C:/Users/thinkpad/Desktop/1.png
+https://raw.githubusercontent.com/yangchao1515/Linux-study/master/1.png
 
 
 
