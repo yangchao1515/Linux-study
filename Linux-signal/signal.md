@@ -94,7 +94,7 @@
 
 
 
-![1556456659546](C:\Users\thinkpad\AppData\Local\Temp\1556456659546.png)
+file:///C:/Users/thinkpad/Desktop/1.png
 
 
 
