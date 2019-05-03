@@ -1,8 +1,8 @@
 /*
  * 线程退出的三种方式
- *      1. 在线程入口函数中return；
- *      2. pthread_exit 退出调用线程
- *      3. pthread_cancel    取消一个指定的线程
+ *           1. 在线程入口函数中return；
+ *           2. pthread_exit 退出调用线程
+ *           3. pthread_cancel    取消一个指定的线程
  *
  *      
  */
